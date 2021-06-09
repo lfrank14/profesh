@@ -49,10 +49,10 @@ contact_links:
     icon_pack: fab
     name: Check out my code
     link: 'https://github.com/lfrank14'
-  # - icon: ???
-  #   icon_pacK; [custom??]
-  #   name: Read my work
-  #   link: 'https://scholar.google.com/citations?user=8mXDrwgAAAAJ&hl=en&oi=sra'
+  - icon: graduation-cap
+    icon_pacK: fab
+    name: Read my work
+    link: 'https://scholar.google.com/citations?user=8mXDrwgAAAAJ&hl=en&oi=sra'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

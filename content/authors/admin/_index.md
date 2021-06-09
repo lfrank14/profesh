@@ -1,27 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Psychology
+    institution: University of Oregon
+    year: in-progress
+  - course: MS in Psychology
+    institution: University of Oregon
+    year: 2017
+  - course: BA in Psychology
+    institution: Marist College
+    year: 2014
+email: "leafrank14@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- memory generalization
+- hippocampal connectivity
+- individual differences
+- machine learning
+- data science
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Oregon
+  url: https://www.uoregon.edu/
+role: Doctoral Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,23 +31,20 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/l_frank14
 - icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=8mXDrwgAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lfrank14
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lea-frank-56481b78/
 superuser: true
-title: Nelson Bighetti
+title: Lea E. Frank
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lea Frank is a PhD student studying cognitive neuroscience at the University of Oregon. She works in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to help guide novel decisions and generate new knowledge. Her work employs behavioral and fMRI techniques to understand the processes underlying memory-guided decision making. She is also completing a data science specialization through the Department of Educational Methodology, Policy, and Leadership (EMPL) at the University of Oregon. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
