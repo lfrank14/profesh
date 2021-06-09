@@ -71,7 +71,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: false
   show_search: true
@@ -102,12 +102,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+  post: false
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -138,7 +138,7 @@ comments:
   commentable:
     post: true
     book: true
-    project: true
+    project: false
     publication: true
     event: true
   disqus:
@@ -168,4 +168,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
