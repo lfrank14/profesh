@@ -45,6 +45,10 @@ superuser: true
 title: Lea E. Frank
 ---
 
-Lea is a PhD student studying cognitive neuroscience at the University of Oregon. She works in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to help guide novel decisions and generate new knowledge. Her work employs behavioral and fMRI techniques to understand the processes underlying memory-guided decision making. She is also completing a data science specialization. 
+I'm a PhD student studying cognitive neuroscience and data science at the University of Oregon. I work in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to help guide novel decisions and generate new knowledge. My work employs behavioral and fMRI techniques to understand the processes underlying memory-guided decision making. I like to incorporate my data science specialization into my research to promote reproducibility and open-science practices. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+After completing my PhD, I hope to find an applied research or data science position that I find both challenging and fulfilling. Though my research has largely focused on the neuroscience of memory, I would like explore new questions regarding human behavior and cognition, health and nutrition, public policy, or other social sciences. I am eager to apply my technical and statistical knowledge towards solving real-world problems. 
+
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or CV.

@@ -60,5 +60,6 @@ abstract: External motivation, such as a promise of future monetary reward for r
   previously and provide new evidence that stable connectivity patterns between memory
   and reward centers relate to individual differences in how reward impacts memory.
 publication: '*Cognitive, Affective and Behavioral Neuroscience*'
+url_pdf: https://link.springer.com/article/10.3758%2Fs13415-019-00700-8
 doi: 10.3758/s13415-019-00700-8
 ---
