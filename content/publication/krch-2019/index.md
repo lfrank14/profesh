@@ -59,5 +59,6 @@ abstract: 'Objective: To evaluate whether cognitive reserve (CR) moderates the r
   ceiling effect, may be instructive for prognostication and clinical decision-making
   in cognitive rehabilitation.'
 publication: '*Journal of Head Trauma Rehabilitation*'
+url_pdf: https://journals.lww.com/headtraumarehab/Fulltext/2019/09000/Cognitive_Reserve_Protects_Against_Memory.16.aspx
 doi: 10.1097/HTR.0000000000000472
 ---

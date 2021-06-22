@@ -57,5 +57,6 @@ abstract: 'The hippocampus contributes to both remembering specific events and g
   connections are one mechanism by which the hippocampus represents both individual
   experiences and generalized knowledge.'
 publication: '*Journal of cognitive neuroscience*'
+url_pdf: https://direct.mit.edu/jocn/article/31/12/1958/95350/Differential-Functional-Connectivity-along-the
 doi: 10.1162/jocn_a_01457
 ---
