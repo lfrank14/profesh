@@ -21,7 +21,7 @@ interests:
 - data science
 organizations:
 - name: University of Oregon
-  url: https://www.uoregon.edu/
+  url: 
 role: Doctoral Candidate
 social:
 - icon: envelope
