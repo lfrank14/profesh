@@ -40,15 +40,12 @@ social:
   link: https://github.com/lfrank14
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/lea-frank-56481b78/
+  link: https://www.linkedin.com/in/lfrank14/
 superuser: true
 title: Lea E. Frank
 ---
 
-I'm a PhD student studying cognitive neuroscience and data science at the University of Oregon. I work in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to help guide novel decisions and generate new knowledge. My work employs behavioral and fMRI techniques to understand the processes underlying memory-guided decision making. I like to incorporate my data science specialization into my research to promote reproducibility and open-science practices. 
-
-After completing my PhD, I hope to find an applied research or data science position that I find both challenging and fulfilling. Though my research has largely focused on the neuroscience of memory, I would like explore new questions regarding human behavior and cognition, health and nutrition, public policy, or other social sciences. I am eager to apply my technical and statistical knowledge towards solving real-world problems. 
-
+I'm a PhD student studying cognitive neuroscience at the University of Oregon. I work in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to help guide novel decisions and generate new knowledge. My work employs behavioral and fMRI techniques to understand the processes underlying memory-guided decision making. I'm completing a data science specialization so that I can incorporate reproducibility and open-science practices in my own research. After completing my PhD, I hope to find a postdoctoral or data science position that I find both challenging and fulfilling. Though my research has largely focused on the neuroscience of memory, I'm also interested in exploring new questions regarding human behavior and cognition, health and nutrition, public policy or social sciences.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
