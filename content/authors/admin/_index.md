@@ -5,6 +5,9 @@ education:
   - course: PhD in Psychology
     institution: University of Oregon
     year: 2022
+  - course: Specialization in Educational Data Science
+    institution: University of Oregon
+    year: 2022
   - course: MS in Psychology
     institution: University of Oregon
     year: 2017

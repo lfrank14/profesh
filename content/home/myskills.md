@@ -40,4 +40,4 @@ design:
 ### Technical skills  
 + Languages – proficient in R and Matlab; experience with SQL, Python, Bash, JavaScript
 + Programming – version control with Git, data manipulation and engineering, cloud computing, shell scripting
-+ Web development with Blogdown, Distill, Hugo and some experience with CSS and HTML 
++ Web development with Blogdown, Distill, Hugo and some experience with CSS 
