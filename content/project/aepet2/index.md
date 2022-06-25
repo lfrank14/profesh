@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 tags:
 - Current
+- Research
 title: Individual differences in memory generalization
 url_code: ""
 url_pdf: ""

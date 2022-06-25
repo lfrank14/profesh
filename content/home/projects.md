@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 title: Projects
 subtitle: ''
@@ -31,6 +31,10 @@ content:
     tag: Current
   - name: Past
     tag: Past
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Research
+    tag: Research
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

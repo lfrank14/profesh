@@ -6,11 +6,12 @@ image:
   focal_point: Smart
 tags:
 - Current
-title: Comparing methods for low-frequency connectivity
+- Research
+title: Evaluating methods for background connectivity
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Low-frequency connectivity allows researchers to measure interactions that are associated with different brain states while participants are performing a task. One challenge of this approach is that trial-related activations must be completely removed from the BOLD signals to ensure correlations are not driven by trial-based events, like stimulus presentation. There are two commonly used methods for removing trial-related activations in the BOLD signal- 1) applying a low-pass filter to the BOLD timeseries to remove frequencies at or above the task frequency (background connectivity), or 2) using the residuals from a finite impulse response (FIR) model that accounts for trial-by-trial activations. This project compares the efficacy of each approach, as well as how well they perform under different trial-timing conditions. 
+Functional connectivity is used in MRI to understand the functional relevance of coherent brain activity between brain regions. Importantly, functional connections contains idiosyncratic features that can be leveraged to identify individuals and predict individual behavior. The most common approach to measuring functional connectivity is during a period rest, referred to as resting-state functional connectivity. Background connectivity, or those connections that occur in the background of task-evoked activity, can be similarly leveraged to identify individuals and their behavior. Successfully removing task-evoked activity is crucial for isolating background connections, and there is little consensus on the best approach. There are two methods for removing trial-evoked activity - 1) applying a low-pass filter to remove frequencies at or above the task frequency, or 2) using the residuals from a finite impulse response (FIR) model that accounts for trial-by-trial activations. This project evaluates the efficacy of each approach, as well as how well they compare to functional connections obtained at rest.
