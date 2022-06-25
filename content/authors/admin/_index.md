@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Oregon
-    year: in-progress
+    year: 2022
   - course: MS in Psychology
     institution: University of Oregon
     year: 2017
@@ -14,15 +14,13 @@ education:
 email: "leafrank14@gmail.com"
 highlight_name: false
 interests:
-- memory generalization
-- hippocampal connectivity
-- individual differences
-- machine learning
 - data science
+- quantitative research
+- human learning and behavior
 organizations:
-- name: University of Oregon
+- name: Eugene, OR
   url: 
-role: Doctoral Candidate
+role: Quantitative Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,6 +43,6 @@ superuser: true
 title: Lea E. Frank
 ---
 
-I'm a PhD student studying cognitive neuroscience and data science at the University of Oregon. I work in Dr. Dasa Zeithamova's [Brain & Memory Lab](https://cognem.uoregon.edu/) studying how memories are used to guide novel decisions and generate new knowledge. My research employs behavioral and fMRI techniques to understand memory-guided decision making. Through my research, I discovered a passion for data analysis and storytelling. Following graduation, I will be seeking data science position where I can apply that passion to solving real-world problems. 
+I'm a quantitative researcher with a passion for data analysis and storytelling. I have 8 years of experience in scientific research, with highly developed skills in computer programming, data analysis, project management, and communicating findings to both technical and non-technical audiences. Having recently completed my Ph.D. in cognitive neuroscience and a specialization in educational data science, I am eager to apply my expertise in an industry setting. This website contains a portfolio of projects, highlighting my proficiency in statistical analysis, data engineering, visualization, and storytelling, and productivity with both independent and collaborative projects. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}} for more information.

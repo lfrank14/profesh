@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 tags:
 - Current
+- Research
 title: Integration effects on interference and source confusion
 url_code: ""
 url_pdf: ""
