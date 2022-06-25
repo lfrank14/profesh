@@ -7,8 +7,8 @@
 
 theme: my_theme
 day_night: false
-font: ''
-font_size: M
+font: my_fonts
+font_size: S
 
 # SEO
 
