@@ -5,18 +5,18 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#39393A"
+primary = "#3A5571"
 
 # Menu
-menu_primary = "#F5F5F5"
-menu_text = "#39393A"
-menu_text_active = "#3E8487"
+menu_primary = "#E0E0E0"
+menu_text = "#353535"
+menu_text_active = "#3A5571"
 #menu_title = "#297373"
 
 # Home sections
 #home_section_odd = "rgb(255, 255, 255)"
-home_section_odd = "#F5F5F5"
-home_section_even = "#F5F5F5"
+home_section_odd = "#E0E0E0"
+home_section_even = "#E0E0E0"
 
 [dark]
   link = "#41B3A3"

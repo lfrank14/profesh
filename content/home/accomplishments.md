@@ -30,7 +30,7 @@ item:
   date_end: ""
   date_start: "2022-01-01"
   description: Introductory SQL course. Learned how to request data, limit and sort responses, join tables, update and transform data.
-  organization: LinkedIn Learning
+  organization: LinkedIn
   organization_url: https://www.linkedin.com/learning/
   title: Learning SQL Programming
   url: ""
