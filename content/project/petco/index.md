@@ -5,7 +5,6 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Past
 - Research
 title: Differential functional connectivity between anterior and posterior hippocampus
 url_code: ""

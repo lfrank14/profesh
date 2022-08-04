@@ -5,7 +5,6 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Past
 - Research
 title: Cognitive reserve in traumatic brain injury
 url_code: ""

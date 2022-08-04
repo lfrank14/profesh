@@ -139,8 +139,8 @@ comments:
     post: true
     book: true
     project: false
-    publication: true
-    event: true
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true

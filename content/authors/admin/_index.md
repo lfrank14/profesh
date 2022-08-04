@@ -46,6 +46,6 @@ superuser: true
 title: Lea E. Frank
 ---
 
-I'm a quantitative researcher with a passion for data analysis and storytelling. I have 8 years of experience in scientific research, with highly developed skills in computer programming, data analysis, project management, and communicating findings to both technical and non-technical audiences. Having recently completed my Ph.D. in cognitive neuroscience and a specialization in educational data science, I am eager to apply my expertise in an industry setting. This website contains a portfolio of projects, highlighting my proficiency in statistical analysis, data engineering, visualization, and storytelling, and productivity with both independent and collaborative projects. 
+I'm a quantitative researcher with 8+ years of experience. I have passion for data analysis and storytelling, with highly developed skills in computer programming, statistical analysis, project management, and communicating findings to both technical and non-technical audiences. Having recently completed my Ph.D. in cognitive neuroscience and a specialization in educational data science, I am eager to launch into a new career in data science. This website contains a portfolio of projects, highlighting my proficiency in data wrangling, statistical analysis, machine learning, visualization, and storytelling. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}} for more information.

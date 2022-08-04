@@ -5,7 +5,6 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Past
 - Machine Learning
 - Research
 title: Functional connectivity between memory and reward centers

@@ -5,8 +5,7 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Past
-- Machine Learning
+- Data science
 title: Class Imbalance in Multivoxel Pattern Analysis
 url_code: ""
 url_pdf: ""

@@ -4,16 +4,16 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 
 
 title: Qualifications & Skills
-subtitle:
+subtitle: 
 
 design:
   columns: "2"
