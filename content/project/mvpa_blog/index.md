@@ -5,8 +5,7 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Past
-- Machine Learning
+- Data science
 title: Kaggle competition for applied machine learning
 url_code: ""
 url_pdf: ""

@@ -5,7 +5,6 @@ image:
   caption: Photo by me
   focal_point: Smart
 tags:
-- Current
 - Research
 title: Evaluating methods for background connectivity
 url_code: ""
