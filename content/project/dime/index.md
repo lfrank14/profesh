@@ -4,9 +4,8 @@ external_link: ""
 image:
   caption: Photo by me
   focal_point: Smart
-tags:
-- Machine Learning
-- Research
+tags: 
+  - Research
 title: Functional connectivity between memory and reward centers
 url_code: ""
 url_pdf: ""

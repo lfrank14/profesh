@@ -4,8 +4,8 @@ external_link: ""
 image:
   caption: Photo by me
   focal_point: Smart
-tags:
-- Data science
+tags: 
+  - Data science
 title: Kaggle competition for applied machine learning
 url_code: ""
 url_pdf: ""

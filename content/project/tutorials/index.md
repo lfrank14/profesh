@@ -41,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-For my *Functional Programming in R* course, I worked with a group to create a set of tutorials and walkthroughs for some of the concepts we learned throughout the course, including data cleaning, parallel iteraion with `purrr`, looping and writing functions. Check them out on our (blog)[https://lfrank14.github.io/fp-w2021-final/].
+For my *Functional Programming in R* course, I worked with a group to create a set of tutorials and walkthroughs for some of the concepts we learned throughout the course, including data cleaning, parallel iteraion with `purrr`, looping and writing functions. Check them out on our [blog](https://lfrank14.github.io/fp-w2021-final/).

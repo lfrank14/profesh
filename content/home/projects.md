@@ -27,12 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Current
-    tag: Current
-  - name: Past
-    tag: Past
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: Data Science
+    tag: Data science
   - name: Research
     tag: Research
 
