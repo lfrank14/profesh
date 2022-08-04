@@ -4,8 +4,8 @@ external_link: ""
 image:
   caption: Photo by me
   focal_point: Smart
-tags:
-- Data science
+tags: 
+  - Data science
 title: Class Imbalance in Multivoxel Pattern Analysis
 url_code: ""
 url_pdf: ""

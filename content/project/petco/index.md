@@ -4,8 +4,8 @@ external_link: ""
 image:
   caption: Photo by me
   focal_point: Smart
-tags:
-- Research
+tags: 
+  - Research
 title: Differential functional connectivity between anterior and posterior hippocampus
 url_code: ""
 url_pdf: ""

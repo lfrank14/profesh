@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Posts
     url: '#posts'
-    weight: 60
+    weight: 50
   - name: Projects
     url: '#projects'
     weight: 20
@@ -19,12 +19,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Skills
-    url: '#myskills'
-    weight: 40
-  - name: Courses
-    url: '#accomplishments'
-    weight: 50
+#  - name: Skills
+#    url: '#myskills'
+#    weight: 40
+#  - name: Courses
+#    url: '#accomplishments'
+#    weight: 60
   # - name: Courses
   #   url: courses/
   #   weight: 60
