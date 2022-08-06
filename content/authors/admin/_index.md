@@ -2,13 +2,13 @@
 bio: 
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD in Cognitive Neuroscience
     institution: University of Oregon
     year: 2022
   - course: Specialization in Educational Data Science
     institution: University of Oregon
     year: 2022
-  - course: MS in Psychology
+  - course: MS in Cognitive Neuroscience
     institution: University of Oregon
     year: 2017
   - course: BA in Psychology
@@ -19,7 +19,7 @@ highlight_name: false
 interests:
 - data science
 - quantitative research
-- human learning and behavior
+- human learning and memory
 organizations:
 - name: Eugene, OR
   url: 
@@ -46,6 +46,6 @@ superuser: true
 title: Lea E. Frank
 ---
 
-I'm a quantitative researcher with 8+ years of experience. I have passion for data analysis and storytelling, with highly developed skills in computer programming, statistical analysis, project management, and communicating findings to both technical and non-technical audiences. Having recently completed my Ph.D. in cognitive neuroscience and a specialization in educational data science, I am eager to launch into a new career in data science. This website contains a portfolio of projects, highlighting my proficiency in data wrangling, statistical analysis, machine learning, visualization, and storytelling. 
+I'm a quantitative researcher with 8+ years of experience in project management, data analysis, and storytelling. Equipped with a passion for data and a hunger to learn (and some other relevant skills), I'm diving into a new career in data science. This website contains a portfolio of projects highlighting my proficiency in experimentation, data wrangling, statistical analysis, machine learning, data visualization, and storytelling. My projects are organized into two categories to 1) highlight data science projects completed through my data science specialization program, and 2) provide context of my research background in the domain of human learning and memory. Links to blog posts, dashboards, and Github repos are provided!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}} for more information.

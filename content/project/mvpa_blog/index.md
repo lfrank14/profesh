@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 tags: 
   - Data science
-title: Kaggle competition for applied machine learning
+title: Predicting student performance on statewide exams using machine learning
 url_code: ""
 url_pdf: ""
 url_slides: ""
