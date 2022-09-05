@@ -38,6 +38,11 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
+  # background:
+  #   image: pubs_background.jpg
+  #   image_size: cover
+  #   image_position: center
+  #   image_parallax: false
 ---
 
 

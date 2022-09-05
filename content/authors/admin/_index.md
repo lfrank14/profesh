@@ -19,11 +19,14 @@ highlight_name: false
 interests:
 - data science
 - quantitative research
-- human learning and memory
+- experimentation
+- causal inference
+- statistical analysis
+- learning & memory
 organizations:
 - name: Eugene, OR
   url: 
-role: Quantitative Researcher
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +49,6 @@ superuser: true
 title: Lea E. Frank
 ---
 
-I'm a quantitative researcher with 8+ years of experience in project management, data analysis, and storytelling. Equipped with a passion for data and a hunger to learn (and some other relevant skills), I'm diving into a new career in data science. This website contains a portfolio of projects highlighting my proficiency in experimentation, data wrangling, statistical analysis, machine learning, data visualization, and storytelling. My projects are organized into two categories to 1) highlight data science projects completed through my data science specialization program, and 2) provide context of my research background in the domain of human learning and memory. Links to blog posts, dashboards, and Github repos are provided!
+I'm a data scientist with 8+ years of experience in project management, experimentation, statistical analysis, and data storytelling. Equipped with a passion for data and a hunger to learn (and some other relevant skills), I'm eager to tackle data problems with real-world business impact. This website contains a portfolio of projects highlighting my proficiency in experimental design, data wrangling, statistical analysis, machine learning, data visualization, and storytelling. My projects are organized into two categories to 1) highlight relevant data science projects, and 2) provide context of my research background in the domain of human learning and memory. Links to blog posts, dashboards, and Github repos are provided!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}} for more information.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lf_resume.pdf" "newtab" >}}resume{{< /staticref >}} or {{< staticref "uploads/lf_cv.pdf" "newtab" >}}CV{{< /staticref >}} for more information.
