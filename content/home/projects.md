@@ -46,4 +46,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 
+  # background:
+  #   image: portfolio_background.jpg
+  #   image_size: cover
+  #   image_position: center
+  #   image_parallax: false
+
 ---

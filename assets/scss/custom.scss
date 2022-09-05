@@ -1,0 +1,269 @@
+// Override this file to add your own SCSS styling.
+
+.navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+  box-shadow: none;
+  font-size: #{$sta-font-size-small}px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+padding: 0 1rem;
+}
+
+// Title under avatar
+.portrait-title h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: white;
+  margin: 20px 0 10px 0;
+}
+
+.portrait-title h3 {
+  font-size: 1rem;
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 200;
+  color: #abd1c6;
+  margin: 0 0 10px 0;
+}
+
+// Subheadingins for about me
+.section-subheading {
+    font-size: 1.25rem;
+    font-family: $sta-font-heading, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+// Social Link Icons
+.big-icon {
+  font-size: 2rem;
+  color: #f9bc60;
+}
+
+// Interests section
+ul.ul-interests li {
+  font-size: 0.9rem;
+  color: #abd1c6
+}
+
+// Education Section
+ul.ul-edu {
+  list-style: none;
+  color: #abd1c6;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+  color: #abd1c6;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.8rem;
+  color: #abd1c6;
+}
+
+/*************************************************
+ *  Wowchemy's Core Style
+ **************************************************/
+
+html {
+  font-family: $sta-font-body, sans-serif;
+  font-size: #{$sta-font-size-small}px;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1.65;
+
+  // Offset anchor scrolling by height of desktop fixed header.
+  scroll-padding-top: 70px;
+
+  @include media-breakpoint-down(md) {
+    // Offset anchor scrolling by height of mobile fixed header.
+    scroll-padding-top: 50px;
+  }
+}
+@media screen and (min-width: 58em) {
+  html {
+    font-size: #{$sta-font-size}px;
+  }
+}
+
+body {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: inherit;
+  color: #abd1c6;
+  background-color: #004643;
+  padding-top: 0;
+  counter-reset: captions;
+
+  // Prevent horizontal scrollbar in case a site admin adds fixed width content without applying `max-width: 100%`.
+  overflow-x: hidden;
+
+  // Offset body content by fixed navbar height.
+  margin-top: 70px;
+
+  @include media-breakpoint-down(md) {
+    // Offset body content by fixed navbar height.
+    margin-top: 50px;
+  }
+}
+
+body.no-navbar {
+  margin-top: 0 !important;
+  scroll-padding-top: 0 !important;
+}
+
+/* Navigation bar text */
+.navbar-light {
+  font-family: $sta-font-nav, sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 700;
+  font-size: 1.25;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  color: #fffffe;
+  text-rendering: optimizeLegibility;
+
+  /* Ensure long words do not overflow into content. */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+
+  /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
+}
+h1 {
+  font-size: 2.25rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  font-weight: 500;
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+a,
+h3.article-title a:hover {
+  text-decoration: none;
+  transition: color 0.6s ease;
+  color: #FFDF6C;
+  font-weight: 400;
+}
+
+a:hover,
+a:focus {
+  color: $sta-link-hover;
+}
+
+// Portfolio 
+
+.card {
+  background-color: #abd1c6;
+}
+
+.card .card-text p {
+  color: #004643;
+  font-size: 0.75rem;
+}
+
+.card .card-text a {
+  color: #001e1d;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+// Publications
+
+.view-list-item .article-metadata a {
+  color: #abd1c6;
+  font-weight: 300
+}
+
+.view-list-item a {
+  color: #fffffe;
+  font-weight: 400;
+}
+
+.btn-outline-primary {
+  border-color: #fffffe;
+}
+
+
+// Recent Posts
+.article-title a {
+  color: white;
+  font-weight: 500;
+}
+
+.article-metadata {
+  color: #abd1c6;
+}
+
+// Footer
+.site-footer {
+  color: white;
+  background-color: #004643;
+}
+
+.page-header,
+.page-footer {
+  flex-shrink: 0;
+  background-color: #004643;
+}
+
+// Articles
+.pub-icon {
+  color: #f9bc60;
+}
+
+.badge-light {
+  color: #001e1d;
+  background: #abd1c6;
+}
+
+ul.share li a {
+  color: #e16162;
+}
+
+.author-card .card-title a {
+  color: #e8e4e6;
+}
+
+.author-card .card-subtitle {
+  color: #e8e4e6;
+}
+
+pre, code {
+  color: #e16162;
+  background-color: #e8e4e6;
+}
