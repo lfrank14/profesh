@@ -20,7 +20,6 @@ interests:
 - data science
 - quantitative research
 - experimentation
-- causal inference
 - statistical analysis
 - learning & memory
 organizations:
